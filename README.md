@@ -1,2 +1,2 @@
 
-![banner](jh_banner.jpeg)
+![banner](jh_banner.png)
